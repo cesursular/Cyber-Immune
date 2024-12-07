@@ -2,5 +2,9 @@ numpy
 pandas
 scikit-learn
 fastapi
+<<<<<<< HEAD
 uvicorn[standard]
 pytest
+=======
+uvicorn[standart]
+>>>>>>> 4d82e3ac7479f7b561786bcd0c8770fdeb46c3b3
